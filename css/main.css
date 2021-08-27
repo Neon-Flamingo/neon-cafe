@@ -3,7 +3,7 @@ html,body{
   height:100%
 }
 body {
-  background: #112 url(https://i.imgur.com/6QJjYMe.jpg)  center no-repeat;
+  background: #112 url(https://i.imgur.com/6QJjYMe.jpg) center no-repeat;
   background-size:cover;
   margin:0
 }
@@ -77,7 +77,7 @@ body {
 /* Join our discord */
 #btn-dsc{
   clear:both;
-  color:rgb(101, 193, 255);
+  color:rgb(66, 211, 255);
   border:2px solid;
   border-radius:3px;
   text-align:center;
@@ -95,5 +95,6 @@ body {
   margin:0 auto;
   background:rgba(0,0,0,0.2);
   box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
-  opacity:0.8
+  opacity:1
 }#btn-dsc:hover{color:rgb(234, 0, 255);opacity:1}
+
