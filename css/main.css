@@ -2,10 +2,6 @@
 html,body{
   height:100%
 }
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
 body {
   background: #112 url(//images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg)  center no-repeat;
   background-size:cover;
@@ -69,27 +65,35 @@ body {
   }
 }
 
+.dsclogo{
+  width: 50px;
+  position:absolute;
+  bottom:150px;
+  margin-left: 525px;
+  margin-right: 0px;  
+}
+
 
 /* Join our discord */
 #btn-dsc{
   clear:both;
-  color:#fff;
+  color:rgb(101, 193, 255);
   border:2px solid;
   border-radius:3px;
   text-align:center;
   text-decoration:none;
   display:block;
   font-family:sans-serif;
-  font-size:14px;
+  font-size:30px;
   width:13em;
   padding:5px 10px;
   font-weight:600;
   position:absolute;
-  bottom:20px;
+  bottom:150px;
   left:0;
   right:0;
   margin:0 auto;
   background:rgba(0,0,0,0.2);
   box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
-  opacity:0.4
-}#btn-dsc:hover{color:#fff;opacity:1}
+  opacity:0.8
+}#btn-dsc:hover{color:rgb(234, 0, 255);opacity:1}
