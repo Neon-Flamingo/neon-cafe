@@ -2,6 +2,10 @@
 html,body{
   height:100%
 }
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
 body {
   background: #112 url(//images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg)  center no-repeat;
   background-size:cover;
