@@ -66,8 +66,8 @@ body {
 }
 
 
-/* follow me @nodws */
-#btn-twtr{
+/* Join our discord */
+#btn-dsc{
   clear:both;
   color:#fff;
   border:2px solid;
@@ -88,4 +88,4 @@ body {
   background:rgba(0,0,0,0.2);
   box-shadow:0 0 0px 3px rgba(0,0,0,0.2);
   opacity:0.4
-}#btn-twtr:hover{color:#fff;opacity:1}
+}#btn-dsc:hover{color:#fff;opacity:1}
